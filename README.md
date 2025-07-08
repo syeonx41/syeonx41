@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=20:F5E2E3,100:F9FFFF&text=DEV%20SEUNGYEON&fontSize=40&fontColor=707D7D&desc=Still%20learning,%20always%20growing.&descSize=10&animation=fadeIn"/>
 
-### 안녕하세요! 백엔드 개발자를 꿈꾸는 우승연입니다.
+### 안녕하세요! 백엔드 개발자를 꿈꾸는 승연입니다.
 👩🏻‍💻 프로젝트를 해보며 동작 원리를 하나씩 이해해가는 중이에요.
 <br />
 💬 사람들과 함께 배우고 성장하는 순간을 좋아합니다.
@@ -26,3 +26,14 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
+
+<br />
+<br />
+
+## 📬 Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seungyeon3287@gmail.com)
+
+<sub> 💌 궁금한 점이 있다면 언제든지 이메일로 연락주세요.<br />
+
+
+</div>
