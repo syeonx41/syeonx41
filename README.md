@@ -15,9 +15,6 @@
 [2025.11.16] 교내 학술제 <strong>장려상</strong> 수상 : 소상공인을 위한 AI 기반 홍보 & 관리 서비스 <br>
 <br />
 
-## 📖 Certification
-TOEIC : 895 <br>
-<br />
 
 ## 🛠️ Skills
 
