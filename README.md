@@ -5,11 +5,12 @@
 ### 안녕하세요! 백엔드 개발자를 꿈꾸는 승연입니다.
 👩🏻‍💻 프로젝트를 해보며 동작 원리를 하나씩 이해해가는 중이에요.
 <br />
-💬 사람들과 함께 배우고 성장하는 순간을 좋아합니다.
+💬 함께 배우고 토론하며 성장하는 과정을 좋아합니다.
 <br />
 <br />
 
 ## 🏆 Awards
+[2026.07.03] NAMUHX 해커톤(SK 인텔릭스 주관) <strong>장려상</strong> 수상 : 보이지 않는 에어 파티션 <br>
 [2025.11.16] 교내 학술제 <strong>장려상</strong> 수상 : 소상공인을 위한 AI 기반 홍보 & 관리 서비스 <br>
 [2025.10.13] 국가우수장학금(이공계) 장학생 선정 <br>
 [2025.08.02] 교내 해커톤 <strong>최우수상</strong> 수상 : 맞춤형 읽기 지원 서비스 <br>
@@ -34,7 +35,8 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 
 #### DevOps
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
 <br />
